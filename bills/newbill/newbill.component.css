@@ -1,0 +1,15 @@
+.color{
+    background-color:rgba(0, 38, 255, 0.808);
+    width:700px;
+    height:50px;
+    color:whitesmoke;
+    font-size: larger;
+}
+.box{
+    width:700px;
+    height:580px;
+    border:1px solid rgba(0, 38, 255, 0.808);
+    margin-top:30px;
+    
+    /* margin:30px 200px 10px 200px; */
+}
